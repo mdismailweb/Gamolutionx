@@ -1,0 +1,12 @@
+html {
+  iframe{
+      height: 500px;
+      width: 1000px;
+  }
+  body{
+      background-color: rgb(1, 1, 20);
+  }
+  h1,h3{
+      color: aliceblue;
+  }
+}
